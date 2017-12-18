@@ -1,5 +1,5 @@
 {
-    "name": "openinvoices/openinvoices-webservice-rest",
+    "name": "openinvoices/openinvoices-tax",
     "description": "Tax module for OpenInvoices",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -10,7 +10,7 @@
     "homepage": "https://github.com/OpenInvoices/openinvoices-tax",
     "require": {
         "php": "^5.5 || ^7.0",
-        "zendframework/zend-mvc": "^3.0.1",
+        "zendframework/zend-mvc": "^3.0.1"
     },
     "autoload": {
         "psr-4": {
